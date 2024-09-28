@@ -1,0 +1,32 @@
+.main{
+    color:red;
+    
+}
+.head2{
+    color: green;
+    font-family:cursive;
+}
+.head1{
+    color: red;
+
+}
+.list{
+    color: darkred;
+    font-size: larger;
+    line-height:25px ;
+    letter-spacing:5px ;
+}
+.head3{
+    color: darkred;
+    letter-spacing: 2px;
+    font-size: larger;
+}
+.para{
+    font-size: 15px;
+    color: darkred;
+}
+.head4{
+    color: darkred;
+    /* font-family: cursive; */
+    font-size: larger;
+}
